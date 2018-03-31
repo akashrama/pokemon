@@ -1,5 +1,4 @@
 /*
-CSE 154 Homework 5 Section AE
 Akash Rama- This page has the JavaScript elements for a pokemon game
 It allows you to catch them all by battling new pokemon which get added to
 your pokedex after a win
